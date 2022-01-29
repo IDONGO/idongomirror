@@ -1,4 +1,4 @@
-**[![Betterme](https://telegra.ph/file/eefdd6148f6993a54c4a5.png)](https://youtu.be/s2TktuIA9-s)
+**[![Betterme](https://telegra.ph/file/eefdd6148f6993a54c4a5.png)](https://t.me/xxyznxx)
 
 # Features supported:
 <details>
