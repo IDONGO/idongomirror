@@ -541,7 +541,7 @@ choose one of these:
 </details>            
 
 ## Index-Repo
-Recommended Index repo for [`eunhamirror`](https://github.com/vincreator/eunhamirror)
+Recommended Index repo
 <details>
     <summary><b>Click here for more details</b></summary>
 
